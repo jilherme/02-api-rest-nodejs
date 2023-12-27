@@ -6,3 +6,6 @@ db/*.db
 
 # Environment
 .env
+
+# Misc
+*.txt
